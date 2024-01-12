@@ -7,6 +7,7 @@
             bool acertou = false;
             int tentativas = 0;
 
+
             Console.WriteLine("BEM VINDO AO JOGO ADIVINHE UM NUMERO");
             Console.WriteLine("");
 
