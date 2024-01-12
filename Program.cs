@@ -16,6 +16,7 @@
 
             while (!acertou && tentativas < 3)
             {
+
                 Console.Write("DIGITE UM NUMERO ENTRE 1 E 10: ");
                 string input = Console.ReadLine();
 
