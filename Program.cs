@@ -38,10 +38,12 @@
                         Console.WriteLine($"ERROU!! O NÚMERO É MENOR. TENTATIVAS RESTANTES: {3 - tentativas}");
                     }
                 }
+
                 else
                 {
                     Console.WriteLine("POR FAVOR, DIGITE APENAS NÚMEROS ENTRE 1 E 10.");
                 }
+
             }
 
             if (!acertou)
