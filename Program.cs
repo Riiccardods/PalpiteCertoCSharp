@@ -48,6 +48,7 @@
             {
 
                 Console.WriteLine($"VOCÊ EXCEDEU O NÚMERO MÁXIMO DE TENTATIVAS. O NÚMERO ERA {numero}.");
+
             }
         }
     }
